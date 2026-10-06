@@ -1,0 +1,3 @@
+Nombre: Vicente
+Fecha: 6/10
+Mi primer comando de Git fue: git init
